@@ -1,0 +1,13 @@
+Lab 2:
+    Q1:
+    m = 0.5, n=1 is a straight line which is totally different from the one we expect but n=2 fits well
+    m = 1, similarly, when n is small, the graph fits not that well but when n = 4,5 the graph fits pretty well and close
+    m = 2, n = 7-9, the graphs fit pretty well and when it reaches 10 and 11, the graphs are the same(can't really recognize the difference)
+    m = 3, n=8,9,10,11, the graphs fit very well but not as good as m=2's
+
+    For any m, when n is small, the polynomial doesn't really fit the orignal function. But when n is big enough, 
+    they will get almost the same in-between the sample points. But for the outside sample interval, they are still
+    not really consistent.
+    
+    Q3:
+    Run L2Q2.m with tumor.jpg and tumorContour.jpg

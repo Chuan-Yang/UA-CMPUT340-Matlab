@@ -1,0 +1,16 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=mex 2012.2.16)  8 NOV 2012 17:57
+entering extended mode
+ %&-line parsing enabled.
+**robot3D.c
+(./robot3D.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     include <matrix.h>
+? 
+! Emergency stop.
+l.1 #
+     include <matrix.h>
+End of file on the terminal!
+
+No pages of output.

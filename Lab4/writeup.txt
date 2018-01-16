@@ -1,0 +1,10 @@
+Part1:
+    Run eval2D.m
+
+    The results of finite difference Jacobian and the analytic Jacobian are actually pretty close.
+    The bigger alpha is, the bigger diference is.
+    
+    The finite difference Jacobian is much easier to compute and get when the orignal function is complicated. Also 
+    it is more accurate.
+
+    Newton's method is more accurate and faster than the Broyden's method.

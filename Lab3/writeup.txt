@@ -1,0 +1,21 @@
+Exercise 1:
+    run L3e1.m (with the required files)
+
+Exercise 2:
+    run L3e2.m (with the required files)
+    Increase b will increase the frequency
+    Increase Y will increase the speed
+
+Exercise 3:
+    run L3e3.m (with the required files)
+    When we have lager Y, we can see that when rendering, the graph is almost still, we can't really 
+    see the motion.
+    This is because that when Y is getting bigger, the gap between two motions is bigger, s.t. the motion becomes
+    faster. Thus, the grpah looks almost still.
+    And acccording to the reason above, we can say that the Taylor expansion will work best for the graph with blur
+    or few details graphs(small diferrences between coordinates in Ix Iy).
+
+Exercise 5:
+    run L3e5.m
+    Press Enter to continue (I used pause to seperate each graph)
+    The interpolation recovers the Y closely but not really prefect.

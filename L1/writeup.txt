@@ -1,0 +1,40 @@
+Lab1
+Exercise 1:
+a. After running lab1ea.m, I got the data below:
+    Elapsed time is 0.000310 seconds.
+    Elapsed time is 0.000083 seconds.
+It's obvious that the second one without using loop is faster than the first one.
+
+b. Run lab1e1b.m
+
+Exercise 2:
+Run lab1e2.m
+    My own test is A = [1 3 6;
+                        2 4 6;
+                        3 4 5];
+                   b = [9;10;12];
+
+    And x = [ 4.5000;-3.5000;2.5000];
+
+
+Exercise 3:
+a. I didn't choose the b_2,b_5,b_11, and get the result_s:
+    1.7400    0.2700    5.9900
+    1.8000    8.9500    4.2500
+    2.4600    2.7800    7.7600
+And after using '\' to calculate, I got the result:
+    1.4175    0.7208    5.4108
+    2.2508    7.5975    4.7008
+    1.8808    3.2308    7.4375
+which should be more accurate than result_s. Because the second one we use the full matrix which has 
+more useful equations than the first one. So it is better.
+
+b. For the 4x4 case, I firstly choose the rays intersecting 4 pixels and then find that even though I
+find 24 rays, but not all of them are linear independent so its rank is not large enough to solve the
+problem. After this, I have to find the rays that only intersect 3 pixels(which are
+definitely linear independent with the previous ones). Then I got an very close result which is more
+accurate than the one using overdetermined system.
+
+c. Run lab1e3c.m
+
+
